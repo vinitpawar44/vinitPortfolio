@@ -7,7 +7,7 @@ import ecom from "../images/ecom.png";
 // import staybnb from "../images/staybnb.png";
 import capcha from "../images/capcha.png";
 import xzoom from "../images/xzoom.png";
-import profile from '../images/portfolio.jpeg';
+import profile from './src/Work/Capture.JPG';
 
 const projects = [
     {
